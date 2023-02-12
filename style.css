@@ -123,3 +123,9 @@ form {
 #city-input {
   font-family: "poppins";
 }
+footer {
+  position: absolute;
+  color: white;
+  bottom: 5%;
+  left: 83%;
+}
